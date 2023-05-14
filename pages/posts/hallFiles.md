@@ -5,7 +5,7 @@ description: The unofficial information (spoken history or gossip) about a perso
 tag: tv, systems, quotes
 author: Netflix The Recruit
 ---
-From Netflix tv show **The Recruit** Season One Epside 2 39m50s in
+From Netflix tv show **The Recruit** Season One Episode 2 39m50s in
 
 New agent is having trouble finding out information about a former asset and goes to a new mentor like individual on how he can proceed when official documentation isn't giving him any useful information.
 
