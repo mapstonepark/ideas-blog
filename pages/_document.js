@@ -1,10 +1,16 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import Image from 'next/image'
 
 export default function Document() {
   const meta = {
     title: 'Mapstone Park Notes',
-    description: 'Ideas worth remembering',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    description: 'Notions Repository',
+    image: <Image
+            src='/logo.png'
+            width={500}
+            height={500}
+            alt='mapstone logo'
+            />
   }
 
   return (
