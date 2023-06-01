@@ -9,7 +9,7 @@ author: me
 
 If my twitter page is to be believed( and I follow some like minded people) we're in trouble. 
 
->the way ted lasso s3 never actually showed big plot moments. we didn't see ted tell rebecca the truth bomb, we didn't see nate quit west ham, we didn't see roy and keeley kiss. literally anything of monumental importance was later told to us
+>the way ted lasso s3 never actually showed big plot moments. we didn't see ted tell rebecca the truth bomb, we didn't see nate quit west ham, we didn't see roy and keeley kiss. literally anything of monumental importance was later told to us. television is a visual medium it's a loss that we did not get to experience crucial revelations
 >	[mcwexlcr](https://twitter.com/mcwexlcr/status/1663920303775313920)
 
 Season three has had some nice moments but overall its been rocky.
