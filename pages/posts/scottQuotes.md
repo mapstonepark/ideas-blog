@@ -5,6 +5,7 @@ description: An assorment of quotes from Scott Galloway from random episodes of 
 tag: quotes, business, pivot podcast, scott galloway
 author: Scott Galloway
 ---
+# Scott Galloway Quotes
 
 Scott:  We're literally fighting like a married couple. I'm just trying to navigate your anger so that we can get to a good place again  
   
